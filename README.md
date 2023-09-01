@@ -14,12 +14,20 @@
 ![ADB](https://img.shields.io/badge/ADB-090909?style-for-the-badget&logo=ADB&logoColor=FDFFFF)
 ![Charles](https://img.shields.io/badge/Charles-090909?style-for-the-badget&logo=Charles&logoColor=)
 
+### Testing Documentation
+
+- [Cheklists](https://itcourse001.atlassian.net/browse/I721-45?atlOrigin=eyJpIjoiY2JmMDUyN2YzMDYyNDk2Yzk5MGNjZmI3OTk5ZmNmMzciLCJwIjoiaiJ9)
+- [Test-Cases](https://docs.google.com/document/d/1KCJduidMN6v0jfD7IUs3kyBa9hQxaO1Q21sfmnQdIWc/edit?usp=sharing)
+- [Bag-Reports](https://itcourse001.atlassian.net/browse/I721-45?atlOrigin=eyJpIjoiMjk4ZDIzZWE2MzIzNGQ2ZmEyNWFlZTBjYWNjNjc0ZWUiLCJwIjoiaiJ9)
+- [SQL Queries](https://docs.google.com/document/d/1O4GYqe7c5BBWxCwO08ow6NimZ_MRlrR64NOQsSXShvI/edit?usp=sharing)
+- [Postman Collections](https://drive.google.com/file/d/1HHUkYk0gOtIOUJBVIi-5gZBMEdBCbW9K/view?usp=sharing)
+
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sulus_Baishev)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sulus_baishev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B1%D0%B0%D0%B8%D1%88%D0%B5%D0%B2-69101928b/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sulusbaishev)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=3D76F7)](https://vk.com/sulusbaishev)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulusBaishev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulusBaishev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
