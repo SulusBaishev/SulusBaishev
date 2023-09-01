@@ -1,7 +1,7 @@
 ![Header](https://github.com/SulusBaishev/SulusBaishev/blob/main/assets/Sullus%20Baishev2.png)
 
 ## Я начинающий тестировщик
-## My CV
+### My CV
 [Link to my CV](https://hh.ru/resume/732fac38ff0c549e0c0039ed1f58395976446e)
 
 ### Language and Tools
@@ -14,6 +14,6 @@
 ![ADB](https://img.shields.io/badge/ADB-090909?style-for-the-badget&logo=ADB&logoColor=FDFFFF)
 ![Charles](https://img.shields.io/badge/Charles-090909?style-for-the-badget&logo=Charles&logoColor=)
 
-
+Follow Me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulusBaishev)](https://github.com/anuraghazra/github-readme-stats)
