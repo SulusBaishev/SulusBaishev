@@ -16,4 +16,10 @@
 
 Follow Me
 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sulus_Baishev)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sulus_baishev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B1%D0%B0%D0%B8%D1%88%D0%B5%D0%B2-69101928b/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sulusbaishev)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulusBaishev)](https://github.com/anuraghazra/github-readme-stats)
