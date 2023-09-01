@@ -5,12 +5,15 @@
 [Link to my CV](https://hh.ru/resume/732fac38ff0c549e0c0039ed1f58395976446e)
 
 ### Language and Tools
-![HEADER](https://camo.githubusercontent.com/d599a4b42fea4707c2fae2a55b5d48acbf702126d5a99cff6802b015f3bb3177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d313336626531)
-![HEADER](https://camo.githubusercontent.com/e33120be981423c3a67ea0fd71e05da413f486246543e882e4f6a89882c3c59c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d663736393335)
-![HEADER](https://camo.githubusercontent.com/4b30119404617326ea1e1bc429da088f2d0acb4e49e11f87972e2487efb51dbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632)
-![HEADER]()
-![HEADER]()
-![HEADER]()
-![HEADER]()
-![HEADER]()
-![HEADER]()
+![Jira](https://img.shields.io/badge/Jira-090909?style-for-the-badget&logo=Jira&logoColor=365FD0)
+![Postman](https://img.shields.io/badge/Postman-090909?style-for-the-badget&logo=Postman&logoColor=ED7A4B)
+![Linux](https://img.shields.io/badge/Linux-090909?style-for-the-badget&logo=Linux&logoColor=FDFFFF)
+![VirtualBox](https://img.shields.io/badge/VirtaulBox-090909?style-for-the-badget&logo=VirtualBox&logoColor=FDFFFF)
+![SQL](https://img.shields.io/badge/SQL-090909?style-for-the-badget&logo=Mysql&logoColor=5F819E)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badget&logo=googlechrome&logoColor=2674f2)
+![ADB](https://img.shields.io/badge/ADB-090909?style-for-the-badget&logo=ADB&logoColor=FDFFFF)
+![Charles](https://img.shields.io/badge/Charles-090909?style-for-the-badget&logo=Charles&logoColor=)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulusBaishev)](https://github.com/anuraghazra/github-readme-stats)
