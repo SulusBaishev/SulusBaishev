@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Header](https://github.com/SulusBaishev/SulusBaishev/blob/main/assets/Sullus%20Baishev2.png)
 <!--
 **SulusBaishev/SulusBaishev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
