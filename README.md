@@ -14,7 +14,7 @@
 ![ADB](https://img.shields.io/badge/ADB-090909?style-for-the-badget&logo=ADB&logoColor=FDFFFF)
 ![Charles](https://img.shields.io/badge/Charles-090909?style-for-the-badget&logo=Charles&logoColor=)
 
-Follow Me
+### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sulus_Baishev)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sulus_baishev/)
