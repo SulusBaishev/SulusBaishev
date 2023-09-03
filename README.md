@@ -16,9 +16,9 @@
 
 ### Testing Documentation
 
-- [Cheklists](https://itcourse001.atlassian.net/browse/I721-45?atlOrigin=eyJpIjoiY2JmMDUyN2YzMDYyNDk2Yzk5MGNjZmI3OTk5ZmNmMzciLCJwIjoiaiJ9)
+- [Cheklists](https://docs.google.com/document/d/1v5bMnIB5AjYQX7_Sblp28NAvTHwlfvq14Hvvvx1S0jA/edit?usp=sharing)
 - [Test-Cases](https://docs.google.com/document/d/1KCJduidMN6v0jfD7IUs3kyBa9hQxaO1Q21sfmnQdIWc/edit?usp=sharing)
-- [Bag-Reports](https://itcourse001.atlassian.net/browse/I721-45?atlOrigin=eyJpIjoiMjk4ZDIzZWE2MzIzNGQ2ZmEyNWFlZTBjYWNjNjc0ZWUiLCJwIjoiaiJ9)
+- [Bag-Reports](https://docs.google.com/document/d/1pvKP0lJaOGze-palVJypU6TIIsyW7DfAQS4uBYvJhsA/edit?usp=sharing)
 - [SQL Queries](https://docs.google.com/document/d/1O4GYqe7c5BBWxCwO08ow6NimZ_MRlrR64NOQsSXShvI/edit?usp=sharing)
 - [Postman Collections](https://drive.google.com/file/d/1HHUkYk0gOtIOUJBVIi-5gZBMEdBCbW9K/view?usp=sharing)
 
